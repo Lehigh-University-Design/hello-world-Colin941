@@ -1,0 +1,40 @@
+
+
+.deck{ 
+
+background-color: black;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row reverse
+
+}
+
+
+.card {
+
+background-color: beige;
+
+height: 400px;
+width: 400px;
+padding:50px;
+margin: 20px;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center; 
+
+
+}
+
+
+.profile { 
+
+width: 200px;
+height: 200px;
+background-color: black;
+border-radius: 120px;
+background: url(../Images/Net\ Neutrality\ Pic.jpg);
+background-position: 50px
+
+}
