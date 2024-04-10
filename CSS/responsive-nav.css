@@ -16,7 +16,7 @@ padding-top: 6em;
 .header { 
 
 background-color: #fff;
-width: calc (100% - 2em);
+width: calc(100% - 2em);
 z-index: 3;
 position: absolute;
 
